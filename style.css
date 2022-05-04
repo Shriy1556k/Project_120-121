@@ -1,0 +1,60 @@
+body {
+	background-color: blue;
+}
+.copy_right_footer {
+   position: fixed;
+   color:blue;
+   bottom: 0;
+   width: 100%;
+   background-color: yellow;
+   line-height: 3;
+   text-align: center;
+  font-family: 'Special Elite', cursive;
+     font-size:20px;
+}
+ol h5{
+	background: yellow;
+    padding: 13px;
+    border-radius: 20px;
+}
+span{
+	font-size: 17px;
+     font-weight:bold;
+}	
+li img{
+	border-radius: 20px;
+}
+.bob{
+	background:rgb(0, 255, 0);
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18px red;
+}
+b{
+	color:red;
+     font-size:20px;
+     font-weight:bold;
+}
+
+.bob3{
+	text-align: center;
+	color: red;
+}
+.result{
+	box-shadow: 5px 5px 18px ;
+	letter-spacing: 2px;
+	background: orange;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid rgb(0, 255, 0)
+}
+h4{
+     font-size:25px;
+     color: red;
+}
+h5{
+     font-size:15px;
+     font-weight:bold;
+}
